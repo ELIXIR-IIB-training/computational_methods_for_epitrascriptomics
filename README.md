@@ -8,48 +8,60 @@ This course provides a foundation on the experimental planning, analytical strat
 <b>Course Material</b>
 
 <b>Day 1</b>
-Course introduction 
-Introduction of the trainers/trainees and brief description of the program 
 
-Invited Talk by Ivan Milenkovic (CRG Center - Novoa Group - Barcelona)
+- Invited Talk by Ivan Milenkovic (CRG Center - Novoa Group - Barcelona)
 
-Overview of transcriptomics and epitranscriptomics - Francesco Nicassio (IIT-Milan)
+<i>"Decoding the epitranscriptome at single molecule resolution"</i>
+
+- Overview of transcriptomics and epitranscriptomics - Francesco Nicassio (IIT-Milan)
+
 General overview on state-of-the-art approaches in transcriptome research 
 
-Profiling RNA modifications: concepts and methodologies - Mattia Pelizzola (IIT-Milan)
+- Profiling RNA modifications: concepts and methodologies - Mattia Pelizzola (IIT-Milan)
+
 Theoretical introduction to epitranscriptomics and overview of the techniques to profile RNA modifications  
 
-Introduction to Nanopore sequencing - Tommaso Leonardi (IIT-Milan)
+- Introduction to Nanopore sequencing - Tommaso Leonardi (IIT-Milan)
+
 General introduction to Nanopore sequencing providing a theoretical foundation on this technology 
 
 <b>Day 2</b>
 
-Using Nanopore sequencing to detect RNA modifications - Camilla Ugolini  (IIT-Milan)
+- Using Nanopore sequencing to detect RNA modifications - Camilla Ugolini  (IIT-Milan)
+
 Theoretical introduction to the various tools and techniques to identify RNA modifications  from Nanopore data. 
 
-From raw data to RNA modifications: how the analysis works - Logan Malroney (IIT-Milan)
+- From raw data to RNA modifications: how the analysis works - Logan Malroney (IIT-Milan)
+
 Introduction to the bioinformatics concepts, pipelines and software tools to analyse  Nanopore data in order to detect RNA modifications 
 
-Practical session - Logan Malroney (IIT-Milan)
-Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into  practice what they learnt during the day. 
+- Practical session - Logan Malroney (IIT-Milan)
 
-Introduction to RNA editing - Ernesto Picardi (UNIBA)
+Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day. 
+
+- Introduction to RNA editing - Ernesto Picardi (UNIBA)
+
 General introduction to RNA editing  
 
-RNA editing databases and REDIportal - Pietro D'Addabbo (UNIBA)
+- RNA editing databases and REDIportal - Pietro D'Addabbo (UNIBA)
+
 Introduction to biological databases for RNA editing and practice with REDIportal
 
-RNA editing detection by REDItools - Adriano Fonzino (UNIBA)
+- RNA editing detection by REDItools - Adriano Fonzino (UNIBA)
+
 Theoretical and practical Introduction to the REDItools package 
 
 <b>Day 3</b>
 
-Using REDItools and REDIportal to profile RNA editing - Claudio Lo Giudice (UNIBA)
+- Using REDItools and REDIportal to profile RNA editing - Claudio Lo Giudice (UNIBA)
+
 Theoretical introduction to computational workflows for identifying RNA editing events from  RNAseq data. 
 
-De novo detection of RNA editing sites by RNAseq data - Claudio Lo Giudice (UNIBA)
+- De novo detection of RNA editing sites by RNAseq data - Claudio Lo Giudice (UNIBA)
+
 Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data. 
  
-Profiling known RNA editing events in RNAseq experiments - Alessandro Silvestris (UNIBA)
+- Profiling known RNA editing events in RNAseq experiments - Alessandro Silvestris (UNIBA)
+
 Practical session in which participants will apply REDItools and REDIportal to analyse known  RNA editing events (including methods for differential RNA editing)
 
