@@ -37,7 +37,7 @@ Introduction to the bioinformatics concepts, pipelines and software tools to ana
 
 - Practical session - Logan Malroney (IIT-Milan)
 
-Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day - <a href="">data</a> - <a href="">scripts</a> 
+Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day - <a href="">data</a> - <a href="day2/scripts">scripts</a> 
 
 - Introduction to RNA editing - Ernesto Picardi (UNIBA) 
 
