@@ -1,4 +1,6 @@
-# Epitranscriptome Course Bari 28-April-2023 - CLAUDIO LO GIUDICE (UNIBA)
+# Epitranscriptome Course Bari 28-April-2023 
+<h2> CLAUDIO LO GIUDICE (UNIBA) </h3>
+<img src="https://persone.ict.uniba.it/rubrica/claudio.logiudice/foto"></img>
 <p align="justify"> Epitranscriptome refers to all biochemical RNA modifications affecting cellular RNAs. 
 Nowadays, RNAseq is the de facto standard approach to discover RNA editing candidates in whole
 eukaryotic. <br> Although the identiﬁcation of editing sites is, in principle, quite simple, it
