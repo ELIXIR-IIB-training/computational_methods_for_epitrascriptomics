@@ -55,7 +55,7 @@ Theoretical and practical Introduction to the REDItools package - <a href="https
 
 - Using REDItools and REDIportal to profile RNA editing - Claudio Lo Giudice (UNIBA)
 
-Theoretical introduction to computational workflows for identifying RNA editing events from  RNAseq data - <a href="">slides</a>
+Theoretical introduction to computational workflows for identifying RNA editing events from  RNAseq data - <a href="day3/data/reditoolsdnarna.md">slides</a>
 
 - De novo detection of RNA editing sites by RNAseq data - Claudio Lo Giudice (UNIBA)
 
