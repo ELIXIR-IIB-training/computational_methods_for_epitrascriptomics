@@ -11,7 +11,7 @@ This course provides a foundation on the experimental planning, analytical strat
 
 - Invited Talk by Ivan Milenkovic (CRG Center - Novoa Group - Barcelona)
 
-<i>"Decoding the epitranscriptome at single molecule resolution"</i> <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day1/Ivan_EvaMariaNovoa_ELIXIR.pdf">slides</a>
+<i>"Decoding the epitranscriptome at single molecule resolution"</i> - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day1/Ivan_EvaMariaNovoa_ELIXIR.pdf">slides</a>
 
 - Overview of transcriptomics and epitranscriptomics - Francesco Nicassio (IIT-Milan)
 
@@ -19,49 +19,49 @@ General overview on state-of-the-art approaches in transcriptome research - <a h
 
 - Profiling RNA modifications: concepts and methodologies - Mattia Pelizzola (IIT-Milan)
 
-Theoretical introduction to epitranscriptomics and overview of the techniques to profile RNA modifications  
+Theoretical introduction to epitranscriptomics and overview of the techniques to profile RNA modifications - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day1/RNAmod_methods_ELIXIR-1.pdf">slides</a>
 
 - Introduction to Nanopore sequencing - Tommaso Leonardi (IIT-Milan)
 
-General introduction to Nanopore sequencing providing a theoretical foundation on this technology 
+General introduction to Nanopore sequencing providing a theoretical foundation on this technology - <a href="">slides</a>
 
 <b>Day 2</b>
 
 - Using Nanopore sequencing to detect RNA modifications - Camilla Ugolini  (IIT-Milan)
 
-Theoretical introduction to the various tools and techniques to identify RNA modifications  from Nanopore data. 
+Theoretical introduction to the various tools and techniques to identify RNA modifications from Nanopore data - <a href="">slides</a>
 
 - From raw data to RNA modifications: how the analysis works - Logan Malroney (IIT-Milan)
 
-Introduction to the bioinformatics concepts, pipelines and software tools to analyse  Nanopore data in order to detect RNA modifications 
+Introduction to the bioinformatics concepts, pipelines and software tools to analyse Nanopore data in order to detect RNA modifications - <a href="">slides</a>
 
 - Practical session - Logan Malroney (IIT-Milan)
 
-Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day. 
+Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day - <a href="">slides</a> 
 
-- Introduction to RNA editing - Ernesto Picardi (UNIBA)
+- Introduction to RNA editing - Ernesto Picardi (UNIBA) 
 
-General introduction to RNA editing  
+General introduction to RNA editing - <a href="">slides</a>  
 
 - RNA editing databases and REDIportal - Pietro D'Addabbo (UNIBA)
 
-Introduction to biological databases for RNA editing and practice with REDIportal
+Introduction to biological databases for RNA editing and practice with REDIportal - <a href="">slides</a>
 
 - RNA editing detection by REDItools - Adriano Fonzino (UNIBA)
 
-Theoretical and practical Introduction to the REDItools package 
+Theoretical and practical Introduction to the REDItools package - <a href="">slides</a> 
 
 <b>Day 3</b>
 
 - Using REDItools and REDIportal to profile RNA editing - Claudio Lo Giudice (UNIBA)
 
-Theoretical introduction to computational workflows for identifying RNA editing events from  RNAseq data. 
+Theoretical introduction to computational workflows for identifying RNA editing events from  RNAseq data - <a href="">slides</a>
 
 - De novo detection of RNA editing sites by RNAseq data - Claudio Lo Giudice (UNIBA)
 
-Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data. 
+Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data - <a href="">slides</a>
  
 - Profiling known RNA editing events in RNAseq experiments - Alessandro Silvestris (UNIBA)
 
-Practical session in which participants will apply REDItools and REDIportal to analyse known  RNA editing events (including methods for differential RNA editing)
+Practical session in which participants will apply REDItools and REDIportal to analyse known  RNA editing events (including methods for differential RNA editing) - <a href="">slides</a>
 
