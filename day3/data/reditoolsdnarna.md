@@ -1,4 +1,4 @@
-# Computational methods for epitranscriptomics Course Bari 28-April-2023 
+# Methods for epitranscriptomics Course Bari 28-April-2023 
 <h2> CLAUDIO LO GIUDICE (UNIBA) </h3>
 <img src="https://persone.ict.uniba.it/rubrica/claudio.logiudice/foto"></img>
 <p align="justify"> Epitranscriptome refers to all biochemical RNA modifications affecting cellular RNAs. 
