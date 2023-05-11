@@ -3,7 +3,7 @@
 <b>Course Overview</b>
 
 Epitranscriptome refers to all chemical modifications affecting cellular RNAs. Although more than 170 different types have been identified up to now, their punctual detection is yet  challenging. Profiling epitranscriptome modifications require ad hoc sequencing technologies as well as dedicated computational workflows. While Illumina RNAseq is the de facto  sequencing methodology for unveiling RNA editing events (not transient modifications), Nanopore direct RNA Sequencing has recently become one of the most powerful techniques to profile the whole repertoire of RNA modifications. Its capacity to directly sequence full length, native RNA molecules without the need for retrotranscription or amplification offers  remarkable advantages compared to other technologies based on short-read sequencing.  However, at the same time it poses various experimental and analytical challenges. 
-This course provides a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA  modifications. Through a combination of theoretical lectures and practical exercises, participants can learn the fundamental concepts and bioinformatics skills that will allow them  to start using Nanopore sequencing for epitranscriptome analysis. Additionally, the course also covers theoretical aspects of RNA editing as well as practical sessions focused on its  detection in human/mouse transcriptomes by Illumina RNAseq data. Participants can acquire specific skills in command-line tools (REDItools) to call, annotate (REDIportal) and filter RNA  variants.
+This course provides a foundation on the experimental planning, analytical strategies and computational approaches for applying Nanopore direct RNA Sequencing to profile RNA  modifications. Through a combination of theoretical lectures and practical exercises, participants can learn the fundamental concepts and bioinformatics skills that will allow them  to start using Nanopore sequencing for epitranscriptome analysis. Additionally, the course also covers theoretical aspects of RNA editing as well as practical sessions focused on its  detection in human/mouse transcriptomes by Illumina RNAseq data. Participants can acquire specific skills in command-line tools (<a href="https://github.com/BioinfoUNIBA/REDItools">REDItools</a>) to call, annotate (<a href="http://srv00.recas.ba.infn.it/atlas/index.html">REDIportal</a>) and filter RNA  variants.
 
 <b>Course Material</b>
 
@@ -59,9 +59,9 @@ Theoretical introduction to computational workflows for identifying RNA editing 
 
 - De novo detection of RNA editing sites by RNAseq data - Claudio Lo Giudice (UNIBA)
 
-Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data - <a href="">slides</a>
+Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data - <a href="">data</a> <a href="">scripts</a>
  
 - Profiling known RNA editing events in RNAseq experiments - Alessandro Silvestris (UNIBA)
 
-Practical session in which participants will apply REDItools and REDIportal to analyse known  RNA editing events (including methods for differential RNA editing) - <a href="">slides</a>
+Practical session in which participants will apply REDItools and REDIportal to analyse known  RNA editing events (including methods for differential RNA editing) - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/elixir_epitranscriptomics.pdf">slides</a>
 
