@@ -57,7 +57,7 @@ using more stringent call criteria than their counterparts in ALU regions. <br>
 are collected, returning the ﬁnal list of RNA editing candidates.</li>
   </ul>
 <br>
-<p style="text-align:right display:inline;"><a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/data/reditoolsdnarna.md"> NEXT </a><p>
+<p style="text-align:right display:inline;"><a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/data/reditoolsdnarna2.md"> NEXT </a><p>
 </p>
 
 
