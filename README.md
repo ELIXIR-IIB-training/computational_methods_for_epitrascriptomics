@@ -41,7 +41,7 @@ Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, p
 
 - Introduction to RNA editing - Ernesto Picardi (UNIBA) 
 
-General introduction to RNA editing - <a href="">slides</a>  
+General introduction to RNA editing - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day2/training-course-27-04-2023_picardi.pdf">slides</a>  
 
 - RNA editing databases and REDIportal - Pietro D'Addabbo (UNIBA)
 
