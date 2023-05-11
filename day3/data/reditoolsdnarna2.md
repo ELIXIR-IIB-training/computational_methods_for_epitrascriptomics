@@ -1,4 +1,5 @@
 # Epitranscriptome Course Bari 28-April-2023 
+<h2>CLAUDIO LO GIUDICE (UNIBA)</h2>
 <p> 
 The main steps described during the practice are reported below and can be easily copy/pasted in your terminal <br>
 (please remove the <b>$</b> simbol during copy&paste.<br>
