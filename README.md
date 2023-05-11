@@ -11,7 +11,7 @@ This course provides a foundation on the experimental planning, analytical strat
 
 - Invited Talk by Ivan Milenkovic (CRG Center - Novoa Group - Barcelona)
 
-<i>"Decoding the epitranscriptome at single molecule resolution"</i>
+<i>"Decoding the epitranscriptome at single molecule resolution"</i> <a href="">slides</a>
 
 - Overview of transcriptomics and epitranscriptomics - Francesco Nicassio (IIT-Milan)
 
