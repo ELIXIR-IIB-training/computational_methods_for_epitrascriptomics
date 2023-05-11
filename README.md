@@ -49,7 +49,7 @@ Introduction to biological databases for RNA editing and practice with REDIporta
 
 - RNA editing detection by REDItools - Adriano Fonzino (UNIBA)
 
-Theoretical and practical Introduction to the REDItools package - <a href="">slides</a> 
+Theoretical and practical Introduction to the REDItools package - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day2/Epitransctiptomic_27_04_2023.pdf.PDF">slides</a> 
 
 <b>Day 3</b>
 
