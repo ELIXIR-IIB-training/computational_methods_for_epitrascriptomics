@@ -29,7 +29,7 @@ General introduction to Nanopore sequencing providing a theoretical foundation o
 
 - Using Nanopore sequencing to detect RNA modifications - Camilla Ugolini  (IIT-Milan)
 
-Theoretical introduction to the various tools and techniques to identify RNA modifications from Nanopore data - <a href="">slides</a>
+Theoretical introduction to the various tools and techniques to identify RNA modifications from Nanopore data - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day2/ELIXIR_course_Ugolini_Nanopore_analysis.pdf">slides</a>
 
 - From raw data to RNA modifications: how the analysis works - Logan Malroney (IIT-Milan)
 
