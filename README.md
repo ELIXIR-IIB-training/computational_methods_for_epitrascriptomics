@@ -45,7 +45,7 @@ General introduction to RNA editing - <a href="https://github.com/ELIXIR-IIB-tra
 
 - RNA editing databases and REDIportal - Pietro D'Addabbo (UNIBA)
 
-Introduction to biological databases for RNA editing and practice with REDIportal - <a href="">slides</a>
+Introduction to biological databases for RNA editing and practice with REDIportal - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day2/REDIportal.ppt.pdf">slides</a>
 
 - RNA editing detection by REDItools - Adriano Fonzino (UNIBA)
 
