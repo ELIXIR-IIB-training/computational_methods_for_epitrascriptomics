@@ -15,7 +15,7 @@ This course provides a foundation on the experimental planning, analytical strat
 
 - Overview of transcriptomics and epitranscriptomics - Francesco Nicassio (IIT-Milan)
 
-General overview on state-of-the-art approaches in transcriptome research 
+General overview on state-of-the-art approaches in transcriptome research - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day1/ELIXIR_course_Nicassio_Trancriptomics.pdf">slides</a>
 
 - Profiling RNA modifications: concepts and methodologies - Mattia Pelizzola (IIT-Milan)
 
