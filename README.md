@@ -33,11 +33,11 @@ Theoretical introduction to the various tools and techniques to identify RNA mod
 
 - From raw data to RNA modifications: how the analysis works - Logan Malroney (IIT-Milan)
 
-Introduction to the bioinformatics concepts, pipelines and software tools to analyse Nanopore data in order to detect RNA modifications - <a href="">slides</a>
+Introduction to the bioinformatics concepts, pipelines and software tools to analyse Nanopore data in order to detect RNA modifications - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day2/ELIXIR_course_Mulroney_%20Nanopore%20sequencing%20to%20detect%20RNA%20modifications.pdf">slides</a>
 
 - Practical session - Logan Malroney (IIT-Milan)
 
-Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day - <a href="">slides</a> 
+Participants will analyse first-hand a Nanopore direct RNA Sequencing dataset, putting into practice what they learnt during the day - <a href="">data</a> - <a href="">scripts</a> 
 
 - Introduction to RNA editing - Ernesto Picardi (UNIBA) 
 
