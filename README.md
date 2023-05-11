@@ -23,7 +23,7 @@ Theoretical introduction to epitranscriptomics and overview of the techniques to
 
 - Introduction to Nanopore sequencing - Tommaso Leonardi (IIT-Milan)
 
-General introduction to Nanopore sequencing providing a theoretical foundation on this technology - <a href="">slides</a>
+General introduction to Nanopore sequencing providing a theoretical foundation on this technology - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day1/ELIXIR_course_Leonardi_Nanopore_Theory.pdf">slides</a>
 
 <b>Day 2</b>
 
