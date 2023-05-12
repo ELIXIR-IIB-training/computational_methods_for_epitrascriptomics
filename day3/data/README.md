@@ -18,7 +18,7 @@ To promote and facilitate the investigation of RNA editing at genomic scale, we 
 It comprises a suite of python scripts has been conceived to handle massive transcriptome sequencing data through a variety of filters to provide accurate RNA editing calls.<br>
 Reditools have been applied in thousands of human RNAseq experiments, leading to the discovery of >16 million events in several human body sites, collected in our specialized <b>REDIportal</b> database.<br>
 REDItools and REDIportal represent two relevant and efficient computational resources to investigate RNA editing in a variety of organisms and in different physiological and pathological conditions.<br>
-Here we reproduce step-by-step the bioinformatics pipeline aimed to study A-to-I editing in human samples, combininig both Reditools and REDIportal.<br>
+Here we reproduce step-by-step the bioinformatics pipeline aimed to study A-to-I editing in human samples, combininig both REDItools and REDIportal.<br>
 In particular, we illustrate the <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/data/reditoolsdnarna.md">computational workflow</a> to discover novel RNA editing events using RNAseq data.
 </p>
 
