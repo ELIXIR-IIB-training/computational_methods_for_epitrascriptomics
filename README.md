@@ -59,7 +59,7 @@ Theoretical introduction to computational workflows for identifying RNA editing 
 
 - De novo detection of RNA editing sites by RNAseq data - Claudio Lo Giudice (UNIBA)
 
-Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/data/Nature_protocol.pdf">data</a> <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/data/reditoolsdnarna2.md">scripts</a>
+Practical session in which participants will put hands on data and tools to detect de novo RNA editing sites in transcriptomic data - <a href="https://github.com/ELIXIR-IIB-training/computational_methods_for_epitrascriptomics/blob/main/day3/data/reditoolsdnarna2.md">slides</a>
  
 - Profiling known RNA editing events in RNAseq experiments - Alessandro Silvestris (UNIBA)
 
